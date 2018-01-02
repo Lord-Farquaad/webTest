@@ -1,0 +1,38 @@
+html,body{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.active{
+  color: black !important;
+  background-color: #8c608c !important;
+}
+
+.navbar{
+  margin: 0;
+  padding: 0;
+  height: 40px;
+}
+
+.navbar-brand{
+  color: #ffffff;
+}
+
+.navbar-toggler-icon{
+  color: #ffffff !important;
+}
+
+a.nav-link{
+  color: #ffffff;
+}
+
+a.navbar-brand:hover{
+  color: #8C608C;
+}
+
+a.nav-link:hover{
+  color: #000000;
+  background-color: #949BA0;
+}
