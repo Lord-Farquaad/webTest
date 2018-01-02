@@ -5,6 +5,13 @@ html,body{
   width: 100%;
 }
 
+iframe{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
 .active{
   color: black !important;
   background-color: #8c608c !important;
